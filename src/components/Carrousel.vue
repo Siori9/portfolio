@@ -1,4 +1,8 @@
 <script>
+
+import cmUrl from '@public/cm.jpg'
+import musiqueUrl from '@public/musique.jpg'
+
 export default {
   name: "Carrousel",
   data() {
@@ -7,12 +11,12 @@ export default {
       items: [
         {
           title: "Comédie musicale",
-          image: 'https://siori9.github.io/portfolio/cm.jpg',
+          image: cmUrl,
           description: `<p style="text-align: center">Chant, danse et théâtre pratiqués depuis 10 ans.</p>`,
         },
         {
           title: "Musique",
-          image: "https://siori9.github.io/portfolio/musique.jpg",
+          image: musiqueUrl,
           description: `
           <ul>
             <li>Chorale scolaire (7 ans)</li>
@@ -75,7 +79,7 @@ export default {
       <button class="nav-button left" @click="prevItem">‹</button>
 
       <div class="carousel-content">
-        <img :src="items[currentIndex].image" alt="Image" class="carousel-image" />
+        <img :src="items[currentIndex].image" alt="Image" class="carousel-image"/>
         <h3>{{ items[currentIndex].title }}</h3>
         <div class="contain" v-html="items[currentIndex].description"></div>
       </div>

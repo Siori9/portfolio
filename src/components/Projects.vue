@@ -3,17 +3,17 @@ export default {
   data() {
     return {
       projects: [
-        { title: "Bot LLDA", date: "Mars 2020 - ...", lien: "https://github.com/Siori9/BotLLDA-v4", img: "/public/LogoLLDAv4.png", languages: ["Javascript","Typescript", "Java"], contain: `
-          <img src="/public/LogoLLDAv41.png" style="width: 10em">
+        { title: "Bot LLDA", date: "Mars 2020 - ...", lien: "https://github.com/Siori9/BotLLDA-v4", img: "https://siori9.github.io/portfolio/LogoLLDAv4.png", languages: ["Javascript","Typescript", "Java"], contain: `
+          <img src="https://siori9.github.io/portfolio/LogoLLDAv41.png" style="width: 10em">
           <p>Ce projet a pour but la création d'un bot Discord pouvant simuler un jeu de type rpg, c'est à dire un jeu avec des système de personnage, de combat, de déplacements dans un monde, de quête, d'objet et de recette, ect.</p>
           <hr style="width: 50%; margin: 1em auto">
           <p>Le projet a vu le jour en mars 2020, lors du premier confinement du Covid19. La première version fut démarré en javascript avec la lib Discordjs alors que je n'avais quasiment jamais fait de programmation de ma vie. Les dernières contributions datent de décembre 2020 et le projet fut mit en pause par manque de temps.</p>
-          <img src="/public/lldav11.png" class="img-content" style="width: 40%" alt="Bot llda v1: fonctionnalité affichage menu personnage">
+          <img src="https://siori9.github.io/portfolio/lldav11.png" class="img-content" style="width: 40%" alt="Bot llda v1: fonctionnalité affichage menu personnage">
           <p>En juin 2022, une version 2 démarra mais cette fois-ci en Typescript et fut arrété en novembre 2022</p>
           <p>La version 3 commença en mars 2023 jusqu'en novembre 2024 et fut développer en Java avec le framework Discord4J, la programmation orientée objet semblant plus pertinante pour le projet.</p>
-          <img src="/public/lldav31.png" class="img-content" alt="Bot llda v3: fonctionnalité création de personnage">
+          <img src="https://siori9.github.io/portfolio/lldav31.png" class="img-content" alt="Bot llda v3: fonctionnalité création de personnage">
           <p>Enfin, en novembre 2024, le projet passa de nouveau à Typescript dans la version 4. Cette dernière est toujours en développement actuellement.</p>
-          <img src="/public/lldav41.png" class="img-content" alt="Bot llda v4: fonctionnalité affichage menu du personnage">
+          <img src="https://siori9.github.io/portfolio/lldav41.png" class="img-content" alt="Bot llda v4: fonctionnalité affichage menu du personnage">
           <div class="recap">
              <h2>Recapitulatif:</h2>
              <ul>
@@ -49,12 +49,12 @@ export default {
           }
           </style>
         ` },
-        { title: "Isok-ui", date: "Décembre 2023 - ...", img: "/public/isok.png", lien: "https://github.com/isok-io/isok-ui", languages: ["Lit"], contain: `
+        { title: "Isok-ui", date: "Décembre 2023 - ...", img: "https://siori9.github.io/portfolio/isok.png", lien: "https://github.com/isok-io/isok-ui", languages: ["Lit"], contain: `
           <p>Isok est un logiciel permettant de surveillé l'état de santé de siteweb. Le but de la partie ui va donc être de permettra la configuration de site web afin de pouvoir les ping et d'afficher les différentes donnée récupéré.</p>
           <p>Ce projet a vu le jour lors d'un hackaton organisé par l'entreprise Clever Cloud pour un groupe d'anciens stagiaire de Pau. Une première version a été donc développé durant 3 jours, le <a href="https://github.com/isok-io/isok">backend</a> par <a href="https://github.com/alyrow">Alyrow</a>, <a href="https://github.com/hcaumeil">Hcaumeil</a> ainsi que <a href="https://github.com/arendsyl">Arend'Syl</a> et le front-end par moi même.</p>
           <p>La partie ui (front-end) est développer avec le framework Lit, un framework javascript légé permettant la création de composant.</p>
           <p>Le projet est toujours en cours...</p>
-          <img class="img-content" src="/public/isok.png" alt="Interface principale de Isok">
+          <img class="img-content" src="https://siori9.github.io/portfolio/isok.png" alt="Interface principale de Isok">
           <style>
           p {
             font-size: large;
@@ -74,14 +74,14 @@ export default {
           }
           </style>
         ` },
-        { title: "DrinkGuard", date: "Avril 2024 - Mai 2024", lien: "https://github.com/matthisisback/MobileComputing_", img: "/public/LogoDrinkGuard.png", languages: ["Kotlin"], contain: `
-          <img src="/public/LogoDrinkGuard2.png" style="width: 10em">
+        { title: "DrinkGuard", date: "Avril 2024 - Mai 2024", lien: "https://github.com/matthisisback/MobileComputing_", img: "https://siori9.github.io/portfolio/LogoDrinkGuard.png", languages: ["Kotlin"], contain: `
+          <img src="https://siori9.github.io/portfolio/LogoDrinkGuard2.png" style="width: 10em">
           <p>Ce projet est une application mobile Android fait dans le cadre d'un cours de développement mobile durant un semestre à l'étranger dans l'université de Reutlingen e Allemagne. L'application a pour but de suivre la consommation d'alcool de l'utilisateur durant une soirée afin de lui indiquer des information comme son taux d'alcoolémie, si il est autorisé à conduire,...</p>
           <p>L'application est composé de 3 écrans principaux, plus un écran d'accueil en cas de première utilisation. Le premier écran permet de notifier l'application de nos consommation et affiche le taux d'acoolémie, le deuxième permet de modifier nos données personnelles et enfin le troisième donne plus de donnée comme la durée avant un taux d'alcoolémie nul, l'historique de nos consommations,...</p>
           <div class="image-grid">
-            <img src="/public/a2.png" alt="Interface deuxième menu">
-            <img src="/public/a1.png" alt="Interface premier menu">
-            <img src="/public/a3.png" alt="Interface troisième menu">
+            <img src="https://siori9.github.io/portfolio/a2.png" alt="Interface deuxième menu">
+            <img src="https://siori9.github.io/portfolio/a1.png" alt="Interface premier menu">
+            <img src="https://siori9.github.io/portfolio/a3.png" alt="Interface troisième menu">
           </div>
           <style>
           p {
@@ -114,17 +114,17 @@ export default {
           }
           </style>
         ` },
-        { title: "Memories of a sunny summer", date: "Mai 2024 - Juin 2024", lien: "https://www.youtube.com/watch?v=KamARNqakiQ", img: "/public/memory.png", languages: ["Blender"], contain: `
+        { title: "Memories of a sunny summer", date: "Mai 2024 - Juin 2024", lien: "https://www.youtube.com/watch?v=KamARNqakiQ", img: "https://siori9.github.io/portfolio/memory.png", languages: ["Blender"], contain: `
           <p>Memories of a sunny summer est un court métrage fait avec le logiciel Blender. Il a été crée dans le cadre d'un cours "Visual computing" durant un semestre à l'étranger dans l'université de Reutlingen en Allemagne. Le court matrage raconte l'histoire d'un grand-père qui se retrouve à s'occuper de sa petite fille durant l'été. C'est un doux mélange de nostalgie et de joie, ayant pour but de rappeler à chacun de bon moment passer avec un membre de leur famille. Le court métrange est visionable sur Youtube sur ce <a href="https://www.youtube.com/watch?v=KamARNqakiQ">lien</a></p>
           <div class="image-grid">
-            <img src="/public/cm1.png" alt="Un grand père et sa petite fille se rencontre">
-            <img src="/public/cm2.png" alt="Le grand père est au téléphone dans une pièce sombre">
-            <img src="/public/cm3.png" alt="Le grand-père empêche la petite fille de tomber du ponton">
-            <img src="/public/cm4.png" alt="La petite fille regarde le grand père à côté d'elle">
-            <img src="/public/cm6.png" alt="La petite fille envoie un ballon">
-            <img src="/public/cm5.png" alt="Le grand père receptionne un ballon">
-            <img src="/public/cm7.png" alt="La petite fille est sur les épaule du grand père">
-            <img src="/public/cm8.png" alt="La petite fille et le grand père regarde un couché de soleil">
+            <img src="https://siori9.github.io/portfolio/cm1.png" alt="Un grand père et sa petite fille se rencontre">
+            <img src="https://siori9.github.io/portfolio/cm2.png" alt="Le grand père est au téléphone dans une pièce sombre">
+            <img src="https://siori9.github.io/portfolio/cm3.png" alt="Le grand-père empêche la petite fille de tomber du ponton">
+            <img src="https://siori9.github.io/portfolio/cm4.png" alt="La petite fille regarde le grand père à côté d'elle">
+            <img src="https://siori9.github.io/portfolio/cm6.png" alt="La petite fille envoie un ballon">
+            <img src="https://siori9.github.io/portfolio/cm5.png" alt="Le grand père receptionne un ballon">
+            <img src="https://siori9.github.io/portfolio/cm7.png" alt="La petite fille est sur les épaule du grand père">
+            <img src="https://siori9.github.io/portfolio/cm8.png" alt="La petite fille et le grand père regarde un couché de soleil">
           </div>
           <style>
           p {
@@ -157,20 +157,20 @@ export default {
             }
           </style>
         ` },
-        { title: "BlackJack", date: "Décembre 2022", lien: "https://github.com/Siori9/BlackJack", img: "/public/blackjack.png", languages: ["C"], contain: `
+        { title: "BlackJack", date: "Décembre 2022", lien: "https://github.com/Siori9/BlackJack", img: "https://siori9.github.io/portfolio/blackjack.png", languages: ["C"], contain: `
           <p>Ce projet est une implémentation du célèbre jeu Black Jack pour terminal en C. Il a été développer dans un cadre d'un cours de programmation en C.</p>
           <p>Le jeu peut se jouer de 1 à 4 joueurs et chacun peut choisir son pseudonyme sur la page de démarrage avant le lancement du jeu</p>
-          <img class="img-content" src="/public/bj1.png" alt="Image interface démarrage du jeu avec le choix du nombre de joueur et des pseudonyme" style="margin: 1em">
+          <img class="img-content" src="https://siori9.github.io/portfolio/bj1.png" alt="Image interface démarrage du jeu avec le choix du nombre de joueur et des pseudonyme" style="margin: 1em">
           <p>A chaque manche, les joueurs pourront choisir, chacun leur tour, leur mise (tous les joueurs commencent le jeu avec 50)</p>
-          <img class="img-content" src="/public/bj2.png" alt="Image interface choix des mises" style="margin: 1em">
+          <img class="img-content" src="https://siori9.github.io/portfolio/bj2.png" alt="Image interface choix des mises" style="margin: 1em">
           <p>Chaque joueur commence avec deux cartes visible sachant qu'une seul carte du croupier est visible. Ils pourront alors choisir de prendre une nouvelle carte ou s'arréter là, chacun leur tour.</p>
-          <img class="img-content" src="/public/bj3.png" alt="Image interface jeu avec les cartes initials" style="margin: 1em">
+          <img class="img-content" src="https://siori9.github.io/portfolio/bj3.png" alt="Image interface jeu avec les cartes initials" style="margin: 1em">
           <p>Le joueur peut prendre autant de carte qu'il veut et la manque se terminera seulement quand tous les joueurs auront arrété de prendre des cartes ou auront dépassé un score de 21</p>
-          <img class="img-content" src="/public/bj4.png" alt="Image interface jeu avec toutes les cartes de fin de tour" style="margin: 1em">
+          <img class="img-content" src="https://siori9.github.io/portfolio/bj4.png" alt="Image interface jeu avec toutes les cartes de fin de tour" style="margin: 1em">
           <p>Une fois la manche terminé, les cartes du croupier sont révélé et les mises sont restituées, doublées ou gardées en fonction de la réussite de chaque joueur. La logique du croupier, géré par le programme, est très simple: il prendra des cartes tant qu'il n'a pas atteint ou dépassé le score de 19.</p>
-          <img class="img-content" src="/public/bj5.png" alt="Image interface jeu en fin de manche" style="margin: 1em">
+          <img class="img-content" src="https://siori9.github.io/portfolio/bj5.png" alt="Image interface jeu en fin de manche" style="margin: 1em">
           <p>La partie prend fin quand les joueurs le souhaitent ou quand un des joueurs n'aura plus rien à miser. A la fin du jeux, un classement des joueurs s'affiche en fonction de leur mise restante.</p>
-          <img class="img-content" src="/public/bj6.png" alt="Image interface jeu en fin de manche" style="margin: 1em">
+          <img class="img-content" src="https://siori9.github.io/portfolio/bj6.png" alt="Image interface jeu en fin de manche" style="margin: 1em">
           <style>
             .img-content {
                 width: 70%;
@@ -182,9 +182,9 @@ export default {
             }
           </style>
         ` },
-        { title: "Maled Market - website", date: "Février 2023 - Mars 2023", lien: "https://github.com/Siori9/MaledMarket-WebSite", img: "/public/armures.png", languages: ["HTML/CSS", "Javascript", "Php"], contain: `
+        { title: "Maled Market - website", date: "Février 2023 - Mars 2023", lien: "https://github.com/Siori9/MaledMarket-WebSite", img: "https://siori9.github.io/portfolio/armures.png", languages: ["HTML/CSS", "Javascript", "Php"], contain: `
           <p>Ce projet est un site web ayant pour but de faire une simulation de site marchant. Les produits vendu sont des items lié au monde crée dans le cadre du projet LLDA. </p>
-          <img src="/public/buttonArmures.png" alt="Image menu siteweb" style="margin: 1em">
+          <img src="https://siori9.github.io/portfolio/buttonArmures.png" alt="Image menu siteweb" style="margin: 1em">
           <style>
             img {
                 max-width: 80%;

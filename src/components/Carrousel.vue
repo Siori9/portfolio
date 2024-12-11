@@ -7,7 +7,7 @@ export default {
       items: [
         {
           title: "Comédie musicale",
-          image: "https://siori9.github.io/portfolio/cm.jpg",
+          image: 'https://siori9.github.io/portfolio/cm.jpg',
           description: `<p style="text-align: center">Chant, danse et théâtre pratiqués depuis 10 ans.</p>`,
         },
         {

@@ -6,8 +6,9 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "https://siori9.github.io/portfolio/",
   build: {
-    outDir: "./docs"
+    outDir: "./docs",
   },
   plugins: [
     vue(),
@@ -16,7 +17,6 @@ export default defineConfig({
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
-      publicPath: process.env.NODE_ENV === "production" ? "/portfolio/" : "/",
     },
   },
 })

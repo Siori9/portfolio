@@ -7,12 +7,12 @@ export default {
       items: [
         {
           title: "Comédie musicale",
-          image: "cm.jpg",
+          image: "https://siori9.github.io/portfolio/cm.jpg",
           description: `<p style="text-align: center">Chant, danse et théâtre pratiqués depuis 10 ans.</p>`,
         },
         {
           title: "Musique",
-          image: "musique.jpg",
+          image: "https://siori9.github.io/portfolio/musique.jpg",
           description: `
           <ul>
             <li>Chorale scolaire (7 ans)</li>
@@ -23,17 +23,17 @@ export default {
         },
         {
           title: "Sports",
-          image: "escalade.jpg",
+          image: "https://siori9.github.io/portfolio/escalade.jpg",
           description: `<p style="text-align: center">Escalade, badminton et danse.</p>`,
         },
         {
           title: "Jeux de rôle",
-          image: "jdr.jpg",
+          image: "https://siori9.github.io/portfolio/jdr.jpg",
           description: `<p style="text-align: center">Expériences en tant que maître du jeu (MJ) et participant.</p>`,
         },
         {
           title: "Création de jeux",
-          image: "jeux.jpg",
+          image: "https://siori9.github.io/portfolio/jeux.jpg",
           description: `
             <ul>
               <li>Escape games</li>
@@ -44,12 +44,12 @@ export default {
         },
         {
           title: "Création d'histoire",
-          image: "ecriture.jpg",
+          image: "https://siori9.github.io/portfolio/ecriture.jpg",
           description: `<p style="text-align: center">Création d'histoires et réalisation de courts métrages.</p>`,
         },
         {
           title: "Travaux manuels",
-          image: "crochet.jpg",
+          image: "https://siori9.github.io/portfolio/crochet.jpg",
           description: `<p style="text-align: center">Crochet, maquettes en bois, LEGO et autres activités créatives.</p>`,
         },
       ],

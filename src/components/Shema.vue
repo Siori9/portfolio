@@ -42,27 +42,27 @@ export default {
     return {
       nodes: [
         {id: "n1", title: "Alternance chez Clever Cloud", date: "09/2024 - 09/2025", style: { top: "0", left: "0%" },
-          description: "Une alternance dans l'équipe front-end de l'entreprise Clever Cloud. Je contrinue à la banque de composant open source de l'entreprise, avec le framework front-end Lit, les intégre à des outils et travail sur l'intégration de l'outil Matomo (équivalent opensource à Google Analytics) à la console (outil principal) de l'entreprise.",
+          description: "Une alternance dans l'équipe front-end de l'entreprise Clever Cloud. Je contribue à la banque de composants open source de l'entreprise, avec le framework front-end Lit, les intègre à des outils et travaille sur l'intégration de l'outil Matomo (équivalent opensource à Google Analytics) à la console (outil principal) de l'entreprise.",
           img: "/public/logoClever.png"
         },
         { id: "n2", title: "Stage chez Clever Cloud", date: "06/2023 - 08/2023", style: { top: "40%", left: "0%" },
-          description: "Un stage de développement dans l'entreprise Clever Cloud, un cloud provider. J'ai travaillé sur le développement d'un plugin Grafana pour le gestionnaire de base de donnée Warp10.",
+          description: "Un stage de développement dans l'entreprise Clever Cloud, un cloud provider. J'ai travaillé sur le développement d'un plugin Grafana pour le gestionnaire de base de données Warp10.",
           img: "/public/stage.png"
         },
         { id: "n3", title: "Présidente de l'association Corpauration", date: "04/2023 - 04/2024", style: { top: "25%", left: "60%" },
-          description: "Présidente de l'association la Corpauration, une association étudiante autour de la thématique des jeux vidéo, des jeux de sociétés et de l'informatique. Je me suis occupé de la gestion d'équipe, du contact avec l'administration de l'établissement, d'organisation de gros évènements et de la gestion du tutorat pour les étudiants (mise en contact d'étudiant en classe préparatoire ayant besoin d'aide pour les cours avec des étudiants en cycle ingénieur volontaires).",
+          description: "Présidente de l'association la Corpauration, une association étudiante autour de la thématique des jeux vidéo, des jeux de société et de l'informatique. Je me suis occupé de la gestion d'équipe, du contact avec l'administration de l'établissement, d'organisation de gros événements et de la gestion du tutorat pour les étudiants (mise en contact d'étudiants en classe préparatoire ayant besoin d'aide pour les cours avec des étudiants en cycle ingénieur volontaires).",
           img: "/public/corp.png"
         },
         { id: "n4", title: "Présidente de l'association Bureau des arts CY Tech Pau", date: "04/2022 - 04/2024", style: { top: "40%", left: "40%" },
-          description: "Présidente de l'association du Bureau des Arts de CY Tech Pau. C'est une association étudiante autour de la thématiques des arts. Je me suis occupé de tout l'administratif, de la gestion financière, de la gestion d'évènement, de la communication, et de la gestion d'équipe. Dans ce cadre j'ai pu gérer des atelier Théâtre, faire partie d'un groupe de musique, écrire la Gazette de l'école (un journal écrit par les étudiants pour l'ensemble de l'établissement),...",
+          description: "Présidente de l'association du Bureau des Arts de CY Tech Pau. C'est une association étudiante autour de la thématique des arts. Je me suis occupé de tout l'administratif, de la gestion financière, de la gestion d'événements, de la communication et de la gestion d'équipe. Dans ce cadre j'ai pu gérer des ateliers Théâtre, faire partie d'un groupe de musique, écrire la Gazette de l'école (un journal écrit par les étudiants pour l'ensemble de l'établissement),...",
           img: "/public/BDA.png"
         },
         { id: "n5", title: "Responsable communication de l'association Corpauration", date: "04/2021 - 04/2023", style: { top: "55%", left: "60%" },
-          description: "Responsable communication de l'association Corpauration, une association étudiante centré sur le jeu vidéo, le jeu de société et l'informatique. Je m'occupais de créer des affiches, rédiger des mails, des posts sur les réseaux sociaux,... Je me suis également occupé de la collection de vêtement de l'association.",
+          description: "Responsable communication de l'association Corpauration, une association étudiante centrée sur le jeu vidéo, le jeu de société et l'informatique. Je m'occupais de créer des affiches, rédiger des mails, des posts sur les réseaux sociaux,... Je me suis également occupé de la collection de vêtements de l'association.",
           img: "/public/LaserGame.png"
         },
-        { id: "n6", title: "Animatrice en colonie de vacances et centre de loisir", date: "Ete 2021/2022", style: { top: "70%", left: "0%" },
-          description: "- Eté 2021: Animatrice dans un centre de loisir à Monein avec un groupe d'enfant de 3 à 6 ans.<br>- Eté 2022: Animatrice en colonie de vacances avec l'organisme Vatacolo sur un séjour Théâtre avec des adolescents de 15 à 17 ans.",
+        { id: "n6", title: "Animatrice en colonie de vacances et centre de loisirs", date: "Ete 2021/2022", style: { top: "70%", left: "0%" },
+          description: "- Eté 2021: Animatrice dans un centre de loisirs à Monein avec un groupe d'enfants de 3 à 6 ans.<br>- Eté 2022: Animatrice en colonie de vacances avec l'organisme Vatacolo sur un séjour théâtre avec des adolescents de 15 à 17 ans.",
           img: "/public/centreLoisir.jpg"
         },
         { id: "n7", title: "", date: "", style: { top: "100%", left: "33%" } },

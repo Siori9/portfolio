@@ -7,7 +7,7 @@
       <div id="description">
         <Avatar></Avatar>
         <p>
-          Salut, moi c'est Clara. Je suis une développeuse front-end junior, toujours à la recherche de nouveau projet pour exprimer ma créativité ! Si vous êtes interessé pour colaborer avec moi, n'hésitez pas à me contacter sur mon adresse mail : <a id="mail" href= "mailto:clara.layus@hotmail.fr">clara.layus@hotmail.fr</a>
+          Salut, moi c'est Clara. Je suis une développeuse front-end junior, toujours à la recherche de nouveaux projets pour exprimer ma créativité ! Si vous êtes intéressé pour collaborer avec moi, n'hésitez pas à me contacter sur mon adresse mail : <a id="mail" href= "mailto:clara.layus@hotmail.fr">clara.layus@hotmail.fr</a>
         </p>
       </div>
       <Info></Info>

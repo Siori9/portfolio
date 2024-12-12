@@ -5,7 +5,7 @@
   <div id="informations">
     <div class="elem">
       <font-awesome-icon icon="map-marker-alt" size="3x"/>
-      <h2>PAU - Pyrénée Atlantique (64)</h2>
+      <h2>PAU - Pyrénées-Atlantiques (64)</h2>
     </div>
     <div class="elem">
       <font-awesome-icon icon="briefcase" size="3x"/>
@@ -13,7 +13,7 @@
     </div>
     <a class="elem" href="https://www.linkedin.com/in/👩🏻%E2%80%8D💻clara-layus-8900b8244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
       <font-awesome-icon :icon="['fab', 'linkedin']" size="3x"/>
-      <span>Compte Linkedin</span>
+      <span>Compte LinkedIn</span>
     </a>
     <a class="elem" href="https://github.com/Siori9">
       <font-awesome-icon :icon="['fab', 'github']" size="3x"/>

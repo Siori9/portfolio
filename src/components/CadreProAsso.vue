@@ -5,7 +5,7 @@ import Shema from "@/components/Shema.vue";
 
 <template>
   <div class="cadre">
-    <h1>Expériences professionnel et associative</h1>
+    <h1>Expériences professionnelles et associatives</h1>
     <div class="shema">
       <Shema></Shema>
     </div>
